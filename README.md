@@ -3,15 +3,25 @@ Esse arquivo e feito com a funcionalidade e objetivos de explicar o meu aprendiz
 nesse arquivo vai ser explicado as seguintes funcionalidades 
 
 Criação do repositório
+
 Clone do repositório
+
 Criação de branch
+
 Registro de commits
+
 Envio das alterações (push)
+
 Atualização do repositório local (pull)
+
 Criação de Issues
+
 Organização com Milestone
+
 Gerenciamento com Project
+
 Abertura de Pull Request
+
 Realização de Merge
 
 tudo isso sera abordado sem o uso da IA
