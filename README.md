@@ -32,5 +32,6 @@ Iniciando
    O local onde e armazenado arquivos importantes 
    <img width="1175" height="403" alt="image" src="https://github.com/user-attachments/assets/c596f733-fb8d-402e-98ef-bd2babd1dce5" />
 Nesse print e possivel a tela de criação do repositorio, ele pode ser criando quando voce entra no perfil ou na aba de configuração 
+
 O *clone* do repositorio e sua importancia 
 
