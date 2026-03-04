@@ -70,6 +70,10 @@ E pronto! seu porto seguro esta aqui
 
 E o pull basicamente serve para a gente trabalhar com a versao mais atual do nosso repositorio 
 <img width="969" height="450" alt="image" src="https://github.com/user-attachments/assets/c47bc528-d0dd-4426-9b7c-67a0ec24b557" />
+**Issues** 
+As issues sao usadas para registrar tarefas, problemas e etc
+elas tambem ajudam a organizar o trabalho em equipe fazendo eles acompanherem as nescessidades 
+
 
 
 
