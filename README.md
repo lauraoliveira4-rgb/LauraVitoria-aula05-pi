@@ -60,6 +60,19 @@ para fazer uma branch nova e bem simples, no seu repositorio ao lado de main cic
 O que e e sua funcionalidade 
 commite e o ato de salvar alteraçoes permitindo rastrear mudanças, identificar bugs e reverter o código a um estado anterior.
 <img width="958" height="358" alt="image" src="https://github.com/user-attachments/assets/d0612e66-4cde-4a57-8b89-6ea7b68a66c9" />
+**push e pull**
+O push envia as alteraçoes locais para o remoto basicamente puxar as versoes mais frequentes para o remoto. 
+*Dica* para fazer um push e nescessario fazer commit
+<img width="558" height="199" alt="image" src="https://github.com/user-attachments/assets/520af4a0-a8f3-4818-bc9f-56131f826fe1" />
+<img width="326" height="418" alt="image" src="https://github.com/user-attachments/assets/44eb5cbd-ab8b-43d1-8c96-2c8a1cdc792b" />
+<img width="976" height="203" alt="image" src="https://github.com/user-attachments/assets/d703d372-5488-42f5-81a5-7ba8ca2f35b5" />
+E pronto! seu porto seguro esta aqui 
+E o pull basicamente serve para a gente trabalhar com a versao mais atual do nosso repositorio 
+<img width="969" height="450" alt="image" src="https://github.com/user-attachments/assets/c47bc528-d0dd-4426-9b7c-67a0ec24b557" />
+
+
+
+
 
 
 
