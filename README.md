@@ -47,7 +47,7 @@ Podemos pensar em branch como galhos de uma arvore, ele a extençao alternativa 
 Sua funcionalidade
 O branch serve para orgalizar varias coisas ao mesmo tempo e ter varios membros trabalhando em conjunto 
 <img width="450" height="275" alt="image" src="https://github.com/user-attachments/assets/36472c49-02e6-46e5-bb0b-06d8bbaa935a" />
-para fazer uma branch nova e bem simples, no seu repositorio 
+para fazer uma branch nova e bem simples, no seu repositorio ao lado de main cicle na opçao branch apos isso cicle nela e va em new branch
 
 
 
