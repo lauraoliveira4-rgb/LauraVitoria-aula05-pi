@@ -59,7 +59,8 @@ para fazer uma branch nova e bem simples, no seu repositorio ao lado de main cic
 **Registro de commits**
 O que e e sua funcionalidade 
 commite e o ato de salvar alteraçoes permitindo rastrear mudanças, identificar bugs e reverter o código a um estado anterior.
-e bem simples fazer um commit 
+<img width="958" height="358" alt="image" src="https://github.com/user-attachments/assets/d0612e66-4cde-4a57-8b89-6ea7b68a66c9" />
+
 
 
 
