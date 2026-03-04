@@ -6,7 +6,7 @@
 
 - Clone do repositório
 
-- Criação de branch
+- Criação de branch 
 
 - Registro de commits
 
