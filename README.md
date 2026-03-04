@@ -35,5 +35,8 @@ Nesse print e possivel a tela de criação do repositorio, ele pode ser criando 
 
 O **clone** do repositorio e sua importancia 
 Esse clone e util para salvar os arquivos da equipe e sempre deixar uma versao atual pronta para caso algo der errado
-o clone e armazenado no GitDesktop
+o clone e armazenado no GitDesktop 
+<img width="1905" height="553" alt="image" src="https://github.com/user-attachments/assets/8906e222-c618-4eac-9bbc-b5a4a03e15ae" />
+
+
 
