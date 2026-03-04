@@ -67,6 +67,7 @@ O push envia as alteraçoes locais para o remoto basicamente puxar as versoes ma
 <img width="326" height="418" alt="image" src="https://github.com/user-attachments/assets/44eb5cbd-ab8b-43d1-8c96-2c8a1cdc792b" />
 <img width="976" height="203" alt="image" src="https://github.com/user-attachments/assets/d703d372-5488-42f5-81a5-7ba8ca2f35b5" />
 E pronto! seu porto seguro esta aqui 
+
 E o pull basicamente serve para a gente trabalhar com a versao mais atual do nosso repositorio 
 <img width="969" height="450" alt="image" src="https://github.com/user-attachments/assets/c47bc528-d0dd-4426-9b7c-67a0ec24b557" />
 
