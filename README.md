@@ -73,6 +73,9 @@ E o pull basicamente serve para a gente trabalhar com a versao mais atual do nos
 **Issues** 
 As issues sao usadas para registrar tarefas, problemas e etc
 elas tambem ajudam a organizar o trabalho em equipe fazendo eles acompanherem as nescessidades 
+podem ser criadas no seu repositorio
+<img width="1808" height="269" alt="image" src="https://github.com/user-attachments/assets/2bf1a6af-c77f-458c-b0cd-50dc19fc3c9c" />
+
 
 
 
