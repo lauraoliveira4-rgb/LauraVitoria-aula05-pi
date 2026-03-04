@@ -39,6 +39,10 @@ O **clone** do repositorio e sua importancia
 Esse clone e util para salvar os arquivos da equipe e sempre deixar uma versao atual pronta para caso algo der errado
 o clone e armazenado no GitDesktop 
 
+**Criação de branch**
+Podemos pensar em branch como galhos de uma arvore, ele a extençao alternativa dos projetos como se fosse multiversos 
+
+
 
 
 
