@@ -1,4 +1,4 @@
- # LauraVitoria-aula05-pi
+ LauraVitoria-aula05-pi
  # Esse arquivo e feito com a funcionalidade e objetivos de explicar o meu aprendizado nas aulas da professora thatiane
 *nesse arquivo vai ser explicado as seguintes funcionalidades*
 
@@ -54,6 +54,13 @@ para fazer uma branch nova e bem simples, no seu repositorio ao lado de main cic
 <img width="934" height="167" alt="image" src="https://github.com/user-attachments/assets/68a01568-f388-44e5-b698-7c7e34f801ee" />
 <img width="1358" height="302" alt="image" src="https://github.com/user-attachments/assets/a5f751ce-a1c4-4a07-aeee-5f905b6e9b13" />
 <img width="522" height="303" alt="image" src="https://github.com/user-attachments/assets/639592ba-b046-415e-87f1-62540eefbfa1" />
+
+
+**Registro de commits**
+O que e e sua funcionalidade 
+commite e o ato de salvar alteraçoes permitindo rastrear mudanças, identificar bugs e reverter o código a um estado anterior.
+e bem simples fazer um commit 
+
 
 
 
