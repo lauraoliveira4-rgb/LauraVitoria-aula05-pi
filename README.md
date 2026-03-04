@@ -33,10 +33,12 @@ Iniciando
    <img width="1175" height="403" alt="image" src="https://github.com/user-attachments/assets/c596f733-fb8d-402e-98ef-bd2babd1dce5" />
 Nesse print e possivel a tela de criação do repositorio, ele pode ser criando quando voce entra no perfil ou na aba de configuração 
 
+<img width="1905" height="553" alt="image" src="https://github.com/user-attachments/assets/f83b0585-0847-43d1-8a62-8fa15f343df7" />
+
 O **clone** do repositorio e sua importancia 
 Esse clone e util para salvar os arquivos da equipe e sempre deixar uma versao atual pronta para caso algo der errado
 o clone e armazenado no GitDesktop 
-<img width="1905" height="553" alt="image" src="https://github.com/user-attachments/assets/8906e222-c618-4eac-9bbc-b5a4a03e15ae" />
+
 
 
 
