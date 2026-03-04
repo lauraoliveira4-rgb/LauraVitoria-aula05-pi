@@ -46,8 +46,11 @@ o clone e armazenado no GitDesktop
 Podemos pensar em branch como galhos de uma arvore, ele a extençao alternativa dos projetos como se fosse multiversos 
 Sua funcionalidade
 O branch serve para orgalizar varias coisas ao mesmo tempo e ter varios membros trabalhando em conjunto 
+
 <img width="450" height="275" alt="image" src="https://github.com/user-attachments/assets/36472c49-02e6-46e5-bb0b-06d8bbaa935a" />
+
 para fazer uma branch nova e bem simples, no seu repositorio ao lado de main cicle na opçao branch apos isso cicle nela e va em new branch
+
 <img width="934" height="167" alt="image" src="https://github.com/user-attachments/assets/68a01568-f388-44e5-b698-7c7e34f801ee" />
 <img width="1358" height="302" alt="image" src="https://github.com/user-attachments/assets/a5f751ce-a1c4-4a07-aeee-5f905b6e9b13" />
 <img width="522" height="303" alt="image" src="https://github.com/user-attachments/assets/639592ba-b046-415e-87f1-62540eefbfa1" />
