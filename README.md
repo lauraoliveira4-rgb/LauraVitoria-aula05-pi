@@ -44,6 +44,10 @@ o clone e armazenado no GitDesktop
 
 **Criação de branch**
 Podemos pensar em branch como galhos de uma arvore, ele a extençao alternativa dos projetos como se fosse multiversos 
+Sua funcionalidade
+O branch serve para orgalizar varias coisas ao mesmo tempo e ter varios membros trabalhando em conjunto 
+<img width="450" height="275" alt="image" src="https://github.com/user-attachments/assets/36472c49-02e6-46e5-bb0b-06d8bbaa935a" />
+
 
 
 
