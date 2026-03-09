@@ -182,6 +182,9 @@ Para adicionar colaboradores basta ir em:
 
 Settings → Collaborators → Add people
 
+<img width="1203" height="715" alt="image" src="https://github.com/user-attachments/assets/f91f4502-33c8-464c-9ed0-3d1053b20e5f" />
+
+
 
 
 
