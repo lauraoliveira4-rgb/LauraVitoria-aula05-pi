@@ -2,27 +2,27 @@ Esse arquivo e feito com a funcionalidade e objetivos de explicar o meu aprendiz
 
 Nesse arquivo vai ser explicado as seguintes funcionalidades:
 
-Criação do repositório
+- Criação do repositório
 
-Clone do repositório
+- Clone do repositório
 
-Criação de branch
+- Criação de branch
 
-Registro de commits
+- Registro de commits
 
-Envio das alterações (push)
+- Envio das alterações (push)
 
-Atualização do repositório local (pull)
+- Atualização do repositório local (pull)
 
-Criação de Issues
+- Criação de Issues
 
-Organização com Milestone
+- Organização com Milestone
 
-Gerenciamento com Project
+- Gerenciamento com Project
 
-Abertura de Pull Request
+- Abertura de Pull Request
 
-Realização de Merge
+- Realização de Merge
 
 Tudo isso será abordado sem o uso de IA.
 
@@ -137,7 +137,7 @@ Em andamento
 Concluído
 
 <img width="1859" height="878" alt="image" src="https://github.com/user-attachments/assets/1998ceec-0ced-431c-9e57-34a023f49d41" />
-Pull Request
+**Pull Request**
 
 O Pull Request é usado quando alguém faz alterações em uma branch e quer enviar essas mudanças para a branch principal (main).
 
@@ -151,7 +151,10 @@ revisar código
 
 aprovar ou pedir mudanças
 
-Merge
+<img width="1312" height="345" alt="image" src="https://github.com/user-attachments/assets/80998322-0e39-4c28-b636-65009507be8a" />
+
+
+**Merge**
 
 O Merge acontece quando as alterações de uma branch são juntadas com a branch principal.
 
@@ -159,7 +162,11 @@ Depois que um Pull Request é aprovado, o código pode ser integrado ao projeto 
 
 Isso faz com que as mudanças passem a fazer parte da versão oficial do projeto.
 
-Colaboradores do repositório
+<img width="1870" height="1250" alt="image" src="https://github.com/user-attachments/assets/ad53258f-c7e4-41f7-9a81-34c18f2cba12" />
+
+
+
+**Colaboradores do repositório**
 
 Uma funcionalidade importante do GitHub é poder adicionar colaboradores ao projeto.
 
