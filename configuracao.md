@@ -1,5 +1,4 @@
-***Configuração do Ambiente de Desenvolvimento com Django
-Tema da Aula***
+### Configuração do Ambiente de Desenvolvimento com Django
 
 **1. Criação da pasta do projeto**
 
