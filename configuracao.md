@@ -100,4 +100,5 @@ python manage.py runserver
 Após a execução, a aplicação ficou disponível no navegador por meio do endereço:
 
 http://127.0.0.1:8000/
+Professora essas partes que sao imagem nao rodaram no meu pc, infelizmente ;(
 
